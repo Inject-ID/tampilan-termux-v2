@@ -18,10 +18,10 @@ o="\033[0m"
 clear
 
 printf "\n      ${p}─╤╦︻${h}=${p}(${m}◣${k}_${m}◢${p})${h}=${p}︻╦╤─   ${m}[ ${pu}SUBSCRIBE ${m}]   \n"		
-printf "         ${h}   __${b}H${h}__     ${m}[ ${pu}YOUTUBE ${m}]\n"
-printf "${p}             [${m}'${p}] ${p}╔╗╔ ╦╔═╗╔═╗╔╦╗    ╦╔╦╗\n"
-printf "${p}             [${m}'${p}] ${p}║║║ ║║╣ ║   ║  ▬▬ ║ ║║\n"
-printf "${p}             [${m}'${p}] ${p}╝╚╝╚╝╚═╝╚═╝ ╩     ╩═╩╝\n"
+printf "         ${h}   __${b}N${h}__     ${m}[ ${pu}YOUTUBE ${m}]\n"
+printf "${p}             [${m}'${p}] ${m}[ ${pu}NURUSSHOBAH ${m}]\n"
+printf "${p}             [${m}'${p}] ${m}[ ${pu}B.H.S ${m}]\n"
+printf "${p}             [${m}'${p}] ${m}[ ${pu}Buronan.Haji.Suhajro ${m}]\n"
 printf "${h}              V     ${m}[ ${pu}LIKE & KOMEN ${m}]\n"
 printf "${pu}      ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n\n"
 
